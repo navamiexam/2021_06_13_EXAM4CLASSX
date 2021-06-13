@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="E954C09D-7589-4EF6-8A95-757B850EF552" version="0">
+	<info>
+		<title>2021_06_13_EXAM4CLASSX</title>
+		<description/>
+	</info>
+	<files index="id23" thumbnail="id19" totalSize="2323173">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/html5-unsupported.html</file>
+		<file id="id8">data/html5.png</file>
+		<file id="id9">data/images/img-284c6a5fe01718298ee36d3c2b2911dbf077a6ef.png</file>
+		<file id="id10">data/images/img-435613c0134eaab873871b381893e4ca27b2b413.png</file>
+		<file id="id11">data/images/img-518289cfb5fa3a5d25779ecd9d37c08edb4b2f9e.png</file>
+		<file id="id12">data/images/img-aad8427e46017a8d660f7a9555c3f27947b995ed.png</file>
+		<file id="id13">data/images/img-c17e58eab1fcd6dcb6975acdb7b35ccfffc471a9.png</file>
+		<file id="id14">data/images/img-d66be595858cb42ab308c3d63f69c802066b9d2a.png</file>
+		<file id="id15">data/images/img-d68e49d4910cb67d620ed1b679598bb2d99e8f24.png</file>
+		<file id="id16">data/images/img-f734a2ce1ec10e913310439e705184191d2c97aa.png</file>
+		<file id="id17">data/ismplayer/app_store2x.png</file>
+		<file id="id18">data/ismplayer/play.svg</file>
+		<file id="id19">data/ismplayer/preview.png</file>
+		<file id="id20">data/ismplayer/style.css</file>
+		<file id="id21">data/ismplayer/style_mini.css</file>
+		<file id="id22">data/player.js</file>
+		<file id="id23">index.html</file>
+		<file id="id24">ismplayer.html</file>
+		<file id="id25">preview.png</file>
+	</files>
+</presentation>
+
